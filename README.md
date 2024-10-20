@@ -152,10 +152,7 @@ Welcome to the BashCraft Team selection process! We’re excited to see your pot
     2. Many students paid the event fee, but only a few joined the session. Those who did not attend are now demanding On-Duty (OD) status, arguing about their inability to join. However, the policy is that only attendees receive OD. How would you address this situation to manage their concerns and maintain fairness?
 
   - **Format**:  
-    Submit your arrangements plan and responses to the situational questions in a single document (PDF or Word format).
-
-  ### Submission
-  - Once your documents are complete, please upload them to this [Google Drive folder](#your-google-drive-link-here) for review.
+   Submit everything in google docs, and ensure to share the link with view access.
 </details>
 
 
