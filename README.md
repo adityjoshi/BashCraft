@@ -1,4 +1,4 @@
-![IMG_5049](https://github.com/user-attachments/assets/6f38195e-77ce-4a9c-b4f9-08a562a58f65)
+![Black and Beige Minimalist Aesthetic Modern Simple Typography Agency Logo (1) (1)](https://github.com/user-attachments/assets/2d6eeda0-dcb9-4eef-ab2c-fb273cfca595)
 
 # BashCraft Team Task Guidelines
 
